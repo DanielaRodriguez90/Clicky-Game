@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/clicky-game/static/css/main.69cb2777.chunk.css",
+    "main.js": "/clicky-game/static/js/main.c246d2d6.chunk.js",
+    "main.js.map": "/clicky-game/static/js/main.c246d2d6.chunk.js.map",
+    "runtime~main.js": "/clicky-game/static/js/runtime~main.98b6a1fe.js",
+    "runtime~main.js.map": "/clicky-game/static/js/runtime~main.98b6a1fe.js.map",
+    "static/js/2.8ba1fec2.chunk.js": "/clicky-game/static/js/2.8ba1fec2.chunk.js",
+    "static/js/2.8ba1fec2.chunk.js.map": "/clicky-game/static/js/2.8ba1fec2.chunk.js.map",
+    "index.html": "/clicky-game/index.html",
+    "precache-manifest.65d36f7d80357e7aa840395d05c74494.js": "/clicky-game/precache-manifest.65d36f7d80357e7aa840395d05c74494.js",
+    "service-worker.js": "/clicky-game/service-worker.js",
+    "static/css/main.69cb2777.chunk.css.map": "/clicky-game/static/css/main.69cb2777.chunk.css.map",
+    "static/media/gorilla.jpeg": "/clicky-game/static/media/gorilla.62983245.jpeg",
+    "static/media/koala.jpeg": "/clicky-game/static/media/koala.2eddac12.jpeg",
+    "static/media/tiger.jpeg": "/clicky-game/static/media/tiger.86d6e138.jpeg"
+  }
+}
